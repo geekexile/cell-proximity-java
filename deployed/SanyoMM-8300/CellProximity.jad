@@ -1,0 +1,8 @@
+MIDlet-1: GameMIDlet,GameIcon.png,proximity.GameMIDlet
+MIDlet-Jar-Size: 63578
+MIDlet-Jar-URL: CellProximity.jar
+MIDlet-Name: CellProximity Midlet Suite
+MIDlet-Vendor: Midlet Suite Vendor
+MIDlet-Version: 1.0.11
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
