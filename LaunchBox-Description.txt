@@ -1,6 +1,6 @@
 Cell Proximity
 
-A strategic turn-based board game where territorial dominance is determined through cunning placement and numerical superiority. Players take turns deploying numbered tokens (1-20) onto a hexagonal grid battlefield, attempting to capture and convert their opponent's armies through proximity-based combat.
+Inspired by the classic browser flash game "Proximity," this strategic turn-based board game brings territorial conquest to Java ME mobile devices. Players take turns deploying numbered tokens (1-20) onto a hexagonal grid battlefield, attempting to capture and convert their opponent's armies through proximity-based combat.
 
 Gameplay revolves around careful positioning - when you place a token adjacent to an enemy piece, you can capture it if your token's value is higher. Captured pieces switch allegiance and can even grow stronger as friendly neighbors are placed beside them, creating powerful strategic chains across the battlefield.
 
@@ -13,5 +13,7 @@ Features:
 • Dual victory conditions (Score or Army Count)
 • High score tracking system
 • Randomized token distribution for varied gameplay
+
+Released: June 2020
 
 Originally developed for Java ME mobile devices, Cell Proximity delivers classic mobile gaming strategy in a compact, polished package. Perfect for quick tactical battles or extended campaigns to master the AI's challenging difficulty levels.
