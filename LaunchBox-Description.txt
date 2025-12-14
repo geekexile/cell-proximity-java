@@ -14,6 +14,6 @@ Features:
 • High score tracking system
 • Randomized token distribution for varied gameplay
 
-Released: June 2020
+Released: 2005
 
 Originally developed for Java ME mobile devices, Cell Proximity delivers classic mobile gaming strategy in a compact, polished package. Perfect for quick tactical battles or extended campaigns to master the AI's challenging difficulty levels.
