@@ -1,0 +1,21 @@
+Java 2 Platform, Micro Edition (J2ME)
+
+Java 2 Platform, Micro Edition (J2ME), also known as Java ME, was a computing platform designed for embedded systems and mobile devices with limited processing power and memory. Developed by Sun Microsystems and released in 1999, J2ME became the dominant platform for mobile gaming throughout the 2000s, predating the smartphone revolution.
+
+J2ME games were distributed as JAR (Java Archive) files and ran on a wide variety of feature phones from manufacturers including Nokia, Motorola, Samsung, Sony Ericsson, and LG. The platform's "write once, run anywhere" philosophy allowed developers to create games that could theoretically run on hundreds of different handset models, though in practice significant optimization was often required for different screen sizes and hardware capabilities.
+
+The platform consisted of configurations and profiles, with MIDP (Mobile Information Device Profile) being the most common for gaming. Games typically featured screen resolutions ranging from 128x128 pixels on early devices to 240x320 or higher on later models. Despite hardware limitations including minimal RAM (often 2-8MB), no dedicated graphics acceleration, and slow processors, developers created surprisingly sophisticated games across all genres.
+
+J2ME's heyday spanned from the early 2000s to the late 2000s, with notable commercial successes including mobile versions of FIFA, Need for Speed, and countless original titles. The platform fostered a vibrant indie development scene, as the Java SDK was freely available and relatively accessible to hobbyist programmers.
+
+The rise of iOS (2007) and Android (2008) gradually displaced J2ME, with most manufacturers discontinuing support by the early 2010s. However, the platform's legacy lives on through emulators and preservation efforts, allowing these historically significant games to be played on modern hardware.
+
+Technical Specifications:
+• Language: Java (subset tailored for embedded devices)
+• Typical RAM: 2-32 MB
+• Display: 128x128 to 480x800 pixels (device-dependent)
+• Distribution Format: JAR files (with JAD descriptor files)
+• API: MIDP 1.0, 2.0, 2.1, or 3.0
+• Common Extensions: Mobile 3D Graphics API (M3G), Wireless Messaging API (WMA)
+
+For emulation on modern systems, popular emulators include KEmulator, J2ME Loader (Android), and FreeJ2ME.
